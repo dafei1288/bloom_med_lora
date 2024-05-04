@@ -1,0 +1,14 @@
+jupyter
+requests
+modelscope
+
+
+transformers
+accelerate
+peft
+transformers
+trl
+datasets
+jupyter
+fire
+wandb

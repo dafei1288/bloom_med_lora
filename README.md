@@ -1,24 +1,10 @@
 ---
 license: Apache License 2.0
-
-tasks:
-- text-generation
-
-model-type:
-- gpt
-
-frameworks:
-- pytorch
-
-backbone:
-- transformer
-
 language:
 - zh
-
-tags:
-- bloom
-- Huatuo
+pipeline_tag: text-generation
+widget:
+- text: "中国的首都是"
 
 ---
 
